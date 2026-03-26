@@ -15,3 +15,5 @@ O app conta com quatro módulos principais:
 
 * **Linguagem:** Java.
 * **Interface:** XML (Layouts responsivos).
+
+**Desenvolvido por Thyago**
